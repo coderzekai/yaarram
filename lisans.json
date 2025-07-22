@@ -1,0 +1,14 @@
+{
+  "licenses": [
+    {
+      "id": "DEVICE_ID_12345",
+      "active": true,
+      "expiry": "2025-08-01"
+    },
+    {
+      "id": "DEVICE_ID_67890",
+      "active": false,
+      "expiry": "2025-01-01"
+    }
+  ]
+}
