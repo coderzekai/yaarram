@@ -1,19 +1,16 @@
 {
   "licenses": [
     {
-      "hasan1"
       "id": "eab5ba50df6140fc",
       "active": true,
       "expiry": "2025-10-30"
     },
     {
-      "hasan2"
       "id": "c889a18207442f38",
       "active": true,
       "expiry": "2035-12-25"
     },
     {
-      "hasan3"
       "id": "583b2c15c3ea707c",
       "active": true,
       "expiry": "2035-12-25"
@@ -22,10 +19,11 @@
       "id": "5c69041f45f06190",
       "active": true,
       "expiry": "2025-10-10"
-      "benim": 29slot
+      "_sahibi": "Benim (29slotda)" 
     }
   ]
 }
+
 
 
 
