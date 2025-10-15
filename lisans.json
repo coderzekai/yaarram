@@ -2,97 +2,97 @@
   "licenses": [
     {
       "id": "eab5ba50df6140fc",
-      "active": true,
+      "active": false,
       "expiry": "2025-10-30",
       "_name": "hasan1" 
     },
     {
       "id": "c889a18207442f38",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan2" 
     },
     {
       "id": "583b2c15c3ea707c",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan3" 
     },
     {
       "id": "356348a9151434db",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan4" 
     },
     {
       "id": "ff0ab6b47eb47fb4",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan5" 
     },
     {
       "id": "22c530b91d337c2a",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan6" 
     },
     {
       "id": "3e527fa08e3c6cc2",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan7" 
     },
     {
       "id": "0194c8235b28dab5",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan8" 
     },
     {
       "id": "10026d5afe31c5d5",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan9" 
     },
     {
       "id": "3809a77c1387466a",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan10" 
     },
     {
       "id": "5161ec390d9b9253",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan11" 
     },
     {
       "id": "3d7558c931293f05",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan12" 
     },
     {
       "id": "213617d4e0fc8c98",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan13" 
     },
     {
       "id": "02503c108de1caa6",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan14" 
     },
     {
       "id": "8025a361986a3fba",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan15" 
     },
     {
       "id": "f8e8ef875d7c849b",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "hasan16" 
     },
@@ -110,7 +110,7 @@
     },
     {
       "id": "d9a1cd3dc86bdf6b",
-      "active": true,
+      "active": false,
       "expiry": "2035-12-25",
       "_name": "kemal" 
     },
@@ -122,6 +122,7 @@
     }
   ]
 }
+
 
 
 
