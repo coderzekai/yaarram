@@ -1,6 +1,12 @@
 {
   "licenses": [
     {
+      "id": "93cf82f036a86677",
+      "active": true,
+      "expiry": "2026-08-21",
+      "_name": "slot34"
+    },
+    {
       "id": "eab5ba50df6140fcX",
       "active": false,
       "expiry": "2025-10-30",
@@ -122,6 +128,7 @@
     }
   ]
 }
+
 
 
 
