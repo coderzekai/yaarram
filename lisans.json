@@ -1,6 +1,12 @@
 {
   "licenses": [
     {
+      "id": "c0b449f9bd77b5e2",
+      "active": true,
+      "expiry": "2026-08-21",
+      "_name": "xiaomi4slot"
+    },
+    {
       "id": "bf7799e90d5b4f87",
       "active": true,
       "expiry": "2026-08-21",
@@ -110,6 +116,7 @@
     }
   ]
 }
+
 
 
 
