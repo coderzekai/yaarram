@@ -1,6 +1,18 @@
 {
   "licenses": [
     {
+      "id": "95ab7118702d6cde",
+      "active": true,
+      "expiry": "2026-08-21",
+      "_name": "BEN39"
+    },
+    {
+      "id": "76b6a76078bb08ea",
+      "active": true,
+      "expiry": "2026-08-21",
+      "_name": "xiaomi5slot"
+    },
+    {
       "id": "c0b449f9bd77b5e2",
       "active": true,
       "expiry": "2026-08-21",
@@ -116,6 +128,7 @@
     }
   ]
 }
+
 
 
 
