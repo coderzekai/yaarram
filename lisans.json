@@ -1,6 +1,12 @@
 {
   "licenses": [
     {
+      "id": "a68b107ec401a6f6",
+      "active": true,
+      "expiry": "2026-08-21",
+      "_name": "Xioami7slot"
+    },
+    {
       "id": "580bd65c19b15dab",
       "active": true,
       "expiry": "2026-08-21",
@@ -170,6 +176,7 @@
     }
   ]
 }
+
 
 
 
