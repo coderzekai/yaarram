@@ -1,16 +1,16 @@
 {
   "licenses": [
     {
-      "id": "xxxxxxxxx",
+      "id": "b0756e87725f953f",
       "active": true,
       "expiry": "2026-08-21",
-      "_name": "xxxxxxxxx"
+      "_name": "poco10slot"
     },
     {
-      "id": "xxxxxxxxx",
+      "id": "cb012c0c78ac0288",
       "active": true,
       "expiry": "2026-08-21",
-      "_name": "xxxxxxxxx"
+      "_name": "Xioami9slot"
     },
     {
       "id": "xxxxxxxxx",
@@ -212,6 +212,7 @@
     }
   ]
 }
+
 
 
 
