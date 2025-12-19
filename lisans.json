@@ -85,114 +85,6 @@
       "_name": "Xioami19slot"
     },
     {
-    "id": "115813683ea9ee8a",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan1"
-    },
-    {
-    "id": "0cdaefdd18fe3d1b",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan2"
-    },
-    {
-    "id": "899d4061e78ab81f",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan3"
-    },
-    {
-    "id": "40a1a6a77b04d5c9",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan4"
-    },
-    {
-    "id": "9c715b7675fd4602",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan5"
-    },
-    {
-    "id": "dcd1380b6b9b7581",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan6"
-    },
-    {
-    "id": "bb1a399bac46d154",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan7"
-    },
-    {
-    "id": "cd94d7e4fabd75c1",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan8"
-    },
-    {
-    "id": "91595599ec4e6a3c",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan9"
-    },
-    {
-    "id": "e71f74180bb9e682",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan10"
-    },
-    {
-    "id": "6633ee4921d83361",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan11"
-    },
-    {
-    "id": "241d955e7bae5465",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan12"
-    },
-    {
-    "id": "cc8e101724e2d779",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan13"
-    },
-    {
-    "id": "782b3bcb9f11c4da",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan14"
-    },
-    {
-    "id": "0a9ec2c72ef68094",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan15"
-    },
-    {
-    "id": "5363b71bef837800",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan16"
-    },
-    {
-    "id": "38f42319bfeaa294",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan17"
-    },
-    {
-    "id": "458865e0c74d13cc",
-    "active": true,
-    "expiry": "2026-08-21",
-    "_name": "hasan18"
-    },
-    {
       "id": "6a6a35a69becc90b",
       "active": true,
       "expiry": "2026-08-21",
@@ -209,12 +101,6 @@
       "active": true,
       "expiry": "2026-08-21",
       "_name": "Poco19slot"
-    },
-    {
-      "id": "473839da6572ef52",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasan"
     },
     {
       "id": "4a4b6c7a35b156f0",
@@ -239,12 +125,6 @@
       "active": true,
       "expiry": "2026-08-21",
       "_name": "poco17slot"
-    },
-    {
-      "id": "7c20fa03d339b1e3",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasoo"
     },
     {
       "id": "16beb4ba8205ae77",
@@ -277,12 +157,6 @@
       "_name": "poco16slot"
     },
     {
-      "id": "aa765d7022e4f7ff",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasan"
-    },
-    {
       "id": "f5c226b7fe6f449b",
       "active": true,
       "expiry": "2026-08-21",
@@ -311,12 +185,6 @@
       "active": true,
       "expiry": "2026-08-21",
       "_name": "Xioami13slot"
-    },
-    {
-      "id": "3b3e4a0fae306948",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasooooo"
     },
     {
       "id": "3b5c8e9800d410b1",
@@ -353,24 +221,6 @@
       "active": true,
       "expiry": "2026-08-21",
       "_name": "poco12slot"
-    },
-    {
-      "id": "043ed6ecb9a87db6",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasooo"
-    },
-    {
-      "id": "638d66ed6aae9261",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasooo"
-    },
-    {
-      "id": "e5a13085477e9ad0",
-      "active": true,
-      "expiry": "2026-08-21",
-      "_name": "hasooo"
     },
     {
       "id": "a819f0b049664a86",
@@ -614,6 +464,7 @@
     }
   ]
 }
+
 
 
 
