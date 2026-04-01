@@ -1,6 +1,12 @@
 {
   "licenses": [
     {
+      "id": "c241f22c5104f51a",
+      "active": true,
+      "expiry": "2028-08-21",
+      "_name": "ben"
+    },
+    {
       "id": "06c293f11beee16e",
       "active": true,
       "expiry": "2028-08-21",
